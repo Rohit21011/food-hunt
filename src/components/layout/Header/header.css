@@ -1,0 +1,49 @@
+.scrollToTop {
+    text-decoration: none;
+
+    position: fixed;
+    bottom: 2%;
+    opacity: 1;
+    color: white !important;
+    right: 5%;
+    z-index: 9;
+    width: 40px;
+    height: 40px;
+    line-height: 40px;
+    text-align: center;
+    background: #fb524f;
+
+    border-radius: 100%;
+    font-size: 18px;
+
+}
+
+.sign-in {
+    color: white;
+    padding: 10px;
+    background-color: #ffc107;
+    border-radius: 10px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 700;
+    color: black
+}
+
+.sign-in:hover {
+    color: white;
+    text-decoration: none;
+}
+
+ul li {
+    list-style: none;
+}
+
+ul li a {
+    color: black;
+    font-weight: bold;
+}
+
+ul li a:hover {
+    text-decoration: none;
+}
